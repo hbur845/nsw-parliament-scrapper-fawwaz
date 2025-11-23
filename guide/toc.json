@@ -1,0 +1,3673 @@
+[
+    {
+        "pdfid": "HANSARD-1323879322-160609",
+        "type": "Root",
+        "expanded": true,
+        "date": "2025-11-20",
+        "chamber": "Legislative Assembly",
+        "draft": true,
+        "item": [
+            {
+                "name": "Bills",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Summary Offences and Other Legislation Amendment (Public Assemblies) Bill 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160369",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "name": "Second Reading Speech",
+                                "type": "Subproceeding",
+                                "expanded": true,
+                                "item": [
+                                    {
+                                        "xref": "1",
+                                        "name": "Mr ALISTER HENSKENS",
+                                        "type": "Member",
+                                        "id": "118"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bills",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Workers Compensation Legislation Amendment (Reform and Modernisation) Bill 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160370",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "name": "Second Reading Debate",
+                                "type": "Subproceeding",
+                                "expanded": true,
+                                "item": [
+                                    {
+                                        "name": "Division",
+                                        "type": "Division",
+                                        "expanded": true
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Third Reading",
+                                "type": "Subproceeding",
+                                "expanded": true,
+                                "item": [
+                                    {
+                                        "name": "Division",
+                                        "type": "Division",
+                                        "expanded": true
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Summary Offences and Other Legislation Amendment (Public Assemblies) Bill 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160371",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "name": "Second Reading Speech",
+                                "type": "Subproceeding",
+                                "expanded": true,
+                                "item": [
+                                    {
+                                        "xref": "1",
+                                        "name": "Mr ALISTER HENSKENS",
+                                        "type": "Member",
+                                        "id": "118"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Visitors",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Visitors",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160372",
+                        "expanded": false
+                    }
+                ]
+            },
+            {
+                "name": "Announcements",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Legislative Council Order for Papers: Virtual Stock Fencing",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160373",
+                        "expanded": false
+                    },
+                    {
+                        "name": "Parliament Smoke and Cigarette Free Policy",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160374",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "The SPEAKER",
+                                "type": "Member",
+                                "id": "41"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Business of the House",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Reserve Sitting Day",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160375",
+                        "expanded": false
+                    }
+                ]
+            },
+            {
+                "name": "Question Time",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Community Preschools",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160376",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MARK SPEAKMAN",
+                                "type": "Member",
+                                "id": "63"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Mr CHRIS MINNS",
+                                "type": "Member",
+                                "id": "108"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Renewable Energy",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160377",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr WARREN KIRBY",
+                                "type": "Member",
+                                "id": "2293"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Mr CHRIS MINNS",
+                                "type": "Member",
+                                "id": "108"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Moore Park Golf Course",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160381",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JAMES GRIFFIN",
+                                "type": "Member",
+                                "id": "2229"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Mr PAUL SCULLY",
+                                "type": "Member",
+                                "id": "2225"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Western Sydney Health Services",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160382",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KYLIE WILKINSON",
+                                "type": "Member",
+                                "id": "2291"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Mr RYAN PARK",
+                                "type": "Member",
+                                "id": "58"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "NSW Police Force and LGBTQIA+ Community",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160383",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr ALEX GREENWICH",
+                                "type": "Member",
+                                "id": "98"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Ms YASMIN CATLEY",
+                                "type": "Member",
+                                "id": "128"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Housing Supply",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160384",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr EDMOND ATALLA",
+                                "type": "Member",
+                                "id": "104"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Mr PAUL SCULLY",
+                                "type": "Member",
+                                "id": "2225"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Science and Engineering Innovation",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160385",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MICHAEL KEMP",
+                                "type": "Member",
+                                "id": "2282"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Mr CHRIS MINNS",
+                                "type": "Member",
+                                "id": "108"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Workers Compensation Legislation",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160386",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms MARYANNE STUART",
+                                "type": "Member",
+                                "id": "2289"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Ms SOPHIE COTSIS",
+                                "type": "Member",
+                                "id": "53"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East Lismore Sewage Treatment Plant",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160387",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms STEPH COOKE",
+                                "type": "Member",
+                                "id": "2235"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Ms JANELLE SAFFIN",
+                                "type": "Member",
+                                "id": "2085"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Road Infrastructure",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160388",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs SALLY QUINNELL",
+                                "type": "Member",
+                                "id": "2284"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Ms JENNY AITCHISON",
+                                "type": "Member",
+                                "id": "120"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Workers Compensation",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160389",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms ELENI PETINOS",
+                                "type": "Member",
+                                "id": "109"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Ms SOPHIE COTSIS",
+                                "type": "Member",
+                                "id": "53"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Public School Infrastructure",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160390",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr NATHAN HAGARTY",
+                                "type": "Member",
+                                "id": "2278"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Mr STEVE WHAN",
+                                "type": "Member",
+                                "id": "2176"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Housing Supply",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160391",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JENNY LEONG",
+                                "type": "Member",
+                                "id": "107"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Mr PAUL SCULLY",
+                                "type": "Member",
+                                "id": "2225"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Foster Carers",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160392",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms SONIA HORNERY",
+                                "type": "Member",
+                                "id": "33"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Ms KATE WASHINGTON",
+                                "type": "Member",
+                                "id": "106"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gambling Harm Minimisation",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160393",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr DAVID HARRIS",
+                                "type": "Member",
+                                "id": "31"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Documents",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "NSW Bushfire Inquiry",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160394",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "name": "Reports",
+                                "type": "Subproceeding",
+                                "expanded": true
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tabling of Papers",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160395",
+                        "expanded": false
+                    },
+                    {
+                        "name": "Printing of Papers",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160396",
+                        "expanded": false
+                    },
+                    {
+                        "name": "Department of the Legislative Assembly",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160397",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "name": "Reports",
+                                "type": "Subproceeding",
+                                "expanded": true
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Historical Tabled Papers",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160398",
+                        "expanded": false
+                    }
+                ]
+            },
+            {
+                "name": "Committees",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Public Accounts Committee",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160399",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "name": "Inquiry",
+                                "type": "Subproceeding",
+                                "expanded": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Petitions",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Responses to Petitions",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160400",
+                        "expanded": false
+                    }
+                ]
+            },
+            {
+                "name": "Motions",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Christmas Felicitations",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160401",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr RYAN PARK",
+                                "type": "Member",
+                                "id": "58"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Mr MARK SPEAKMAN",
+                                "type": "Member",
+                                "id": "63"
+                            },
+                            {
+                                "xref": "3",
+                                "name": "Mr RON HOENIG",
+                                "type": "Member",
+                                "id": "97"
+                            },
+                            {
+                                "xref": "4",
+                                "name": "Mr GURMESH SINGH",
+                                "type": "Member",
+                                "id": "2244"
+                            },
+                            {
+                                "xref": "5",
+                                "name": "Mr ALISTER HENSKENS",
+                                "type": "Member",
+                                "id": "118"
+                            },
+                            {
+                                "xref": "6",
+                                "name": "The SPEAKER",
+                                "type": "Member",
+                                "id": "41"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bills",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Summary Offences and Other Legislation Amendment (Public Assemblies) Bill 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160402",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "name": "Second Reading Speech",
+                                "type": "Subproceeding",
+                                "expanded": true,
+                                "item": [
+                                    {
+                                        "xref": "1",
+                                        "name": "Mr ALISTER HENSKENS",
+                                        "type": "Member",
+                                        "id": "118"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Environmental Planning and Assessment Amendment (Bushfire Protection) Bill 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160403",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "name": "First Reading",
+                                "type": "Subproceeding",
+                                "expanded": true
+                            },
+                            {
+                                "name": "Second Reading Speech",
+                                "type": "Subproceeding",
+                                "expanded": true,
+                                "item": [
+                                    {
+                                        "xref": "1",
+                                        "name": "Mr MICHAEL REGAN",
+                                        "type": "Member",
+                                        "id": "2286"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Summary Offences Amendment (Police Memorial Offences) Bill 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160404",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "name": "First Reading",
+                                "type": "Subproceeding",
+                                "expanded": true
+                            },
+                            {
+                                "name": "Second Reading Speech",
+                                "type": "Subproceeding",
+                                "expanded": true,
+                                "item": [
+                                    {
+                                        "xref": "1",
+                                        "name": "Mr ROY BUTLER",
+                                        "type": "Member",
+                                        "id": "2239"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Road Transport Amendment (Medicinal Cannabis) Bill 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160405",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "name": "First Reading",
+                                "type": "Subproceeding",
+                                "expanded": true
+                            },
+                            {
+                                "name": "Second Reading Speech",
+                                "type": "Subproceeding",
+                                "expanded": true,
+                                "item": [
+                                    {
+                                        "xref": "1",
+                                        "name": "Mr ALEX GREENWICH",
+                                        "type": "Member",
+                                        "id": "98"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Motions",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Christmas Felicitations",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160406",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr NATHAN HAGARTY",
+                                "type": "Member",
+                                "id": "2278"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Mr ADAM CROUCH",
+                                "type": "Member",
+                                "id": "112"
+                            },
+                            {
+                                "xref": "3",
+                                "name": "Ms LIESL TESCH",
+                                "type": "Member",
+                                "id": "2228"
+                            },
+                            {
+                                "xref": "4",
+                                "name": "Mr RICHIE WILLIAMSON",
+                                "type": "Member",
+                                "id": "2292"
+                            },
+                            {
+                                "xref": "5",
+                                "name": "Ms CHARISHMA KALIYANDA",
+                                "type": "Member",
+                                "id": "2281"
+                            },
+                            {
+                                "xref": "6",
+                                "name": "Ms FELICITY WILSON",
+                                "type": "Member",
+                                "id": "2230"
+                            },
+                            {
+                                "xref": "7",
+                                "name": "Ms MARYANNE STUART",
+                                "type": "Member",
+                                "id": "2289"
+                            },
+                            {
+                                "xref": "8",
+                                "name": "Ms JENNY LEONG",
+                                "type": "Member",
+                                "id": "107"
+                            },
+                            {
+                                "xref": "9",
+                                "name": "Dr HUGH McDERMOTT",
+                                "type": "Member",
+                                "id": "129"
+                            },
+                            {
+                                "xref": "10",
+                                "name": "Mr DAVID LAYZELL",
+                                "type": "Member",
+                                "id": "2261"
+                            },
+                            {
+                                "xref": "11",
+                                "name": "Ms JANELLE SAFFIN",
+                                "type": "Member",
+                                "id": "2085"
+                            },
+                            {
+                                "xref": "12",
+                                "name": "Ms ROBYN PRESTON",
+                                "type": "Member",
+                                "id": "2249"
+                            },
+                            {
+                                "xref": "13",
+                                "name": "Mr JIHAD DIB",
+                                "type": "Member",
+                                "id": "110"
+                            },
+                            {
+                                "xref": "14",
+                                "name": "Dr JOE McGIRR",
+                                "type": "Member",
+                                "id": "2237"
+                            },
+                            {
+                                "xref": "15",
+                                "name": "Mr TIM JAMES",
+                                "type": "Member",
+                                "id": "2265"
+                            },
+                            {
+                                "xref": "16",
+                                "name": "Ms STEPHANIE DI PASQUA",
+                                "type": "Member",
+                                "id": "2277"
+                            },
+                            {
+                                "xref": "17",
+                                "name": "Mr STEVE WHAN",
+                                "type": "Member",
+                                "id": "2176"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Community Recognition Statements",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "RSL LifeCare",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160407",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr NATHAN HAGARTY",
+                                "type": "Member",
+                                "id": "2278"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gunning Station",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160408",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs WENDY TUCKERMAN",
+                                "type": "Member",
+                                "id": "2240"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mollymook Golf Club",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160409",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms LIZA BUTLER",
+                                "type": "Member",
+                                "id": "2274"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nelma Brooks",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160410",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr PAUL TOOLE",
+                                "type": "Member",
+                                "id": "62"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kiama Ultra Challenge",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160411",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KATELIN McINERNEY",
+                                "type": "Member",
+                                "id": "2311"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Warringah Masters Swimming Club",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160412",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MICHAEL REGAN",
+                                "type": "Member",
+                                "id": "2286"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Granville Waratah Soccer Football Club",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160413",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms DONNA DAVIS",
+                                "type": "Member",
+                                "id": "2276"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Davidson Electorate Christmas Celebrations",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160414",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MATT CROSS",
+                                "type": "Member",
+                                "id": "2275"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Quota Club Narooma",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160415",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Dr MICHAEL HOLLAND",
+                                "type": "Member",
+                                "id": "2264"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Grafton District Meals on Wheels",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160416",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr RICHIE WILLIAMSON",
+                                "type": "Member",
+                                "id": "2292"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Viqarunnisa Alumni Australia",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160417",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr TRI VO",
+                                "type": "Member",
+                                "id": "2271"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lirra Peters-Dennis",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160418",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr ROY BUTLER",
+                                "type": "Member",
+                                "id": "2239"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ahmad Chatah",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160419",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KYLIE WILKINSON",
+                                "type": "Member",
+                                "id": "2291"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Epping Electorate Community Organisations",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160420",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms MONICA TUDEHOPE",
+                                "type": "Member",
+                                "id": "2307"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shayna Humanitarian Leadership Program",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160421",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Dr DAVID SALIBA",
+                                "type": "Member",
+                                "id": "2287"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tribute to Robyn Shanahan",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160422",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr BRENDAN MOYLAN",
+                                "type": "Member",
+                                "id": "2306"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Australian Islamic Cultural Centre",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160423",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms CHARISHMA KALIYANDA",
+                                "type": "Member",
+                                "id": "2281"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Michael Keenan",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160424",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs HELEN DALTON",
+                                "type": "Member",
+                                "id": "2245"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Palestinian Christians In Australia Organisation",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160425",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JULIA FINN",
+                                "type": "Member",
+                                "id": "126"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Annalise Nguyen",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160426",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms STEPHANIE DI PASQUA",
+                                "type": "Member",
+                                "id": "2277"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Glenworth Valley Wilderness Adventures",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160427",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms LIESL TESCH",
+                                "type": "Member",
+                                "id": "2228"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Guy Guiana",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160428",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr DAVID LAYZELL",
+                                "type": "Member",
+                                "id": "2261"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Australian International Academy Strathfield Campus",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160429",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JASON LI",
+                                "type": "Member",
+                                "id": "2263"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tribute to John Hill",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160430",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr TIM JAMES",
+                                "type": "Member",
+                                "id": "2265"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pink Up Berry",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160431",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KATELIN McINERNEY",
+                                "type": "Member",
+                                "id": "2311"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lions Club Port Macquarie Tacking Point",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160432",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr ROBERT DWYER",
+                                "type": "Member",
+                                "id": "2310"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "St Raymond's Maronite Parish Auburn",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160433",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JULIA FINN",
+                                "type": "Member",
+                                "id": "126"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Imogen Connell",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160434",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr ALISTER HENSKENS",
+                                "type": "Member",
+                                "id": "118"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East Hills Electorate Sports Photo Competition",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160435",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KYLIE WILKINSON",
+                                "type": "Member",
+                                "id": "2291"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Eliza Bosganas",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160436",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MICHAEL REGAN",
+                                "type": "Member",
+                                "id": "2286"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bills",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Criminal Assets Recovery Amendment (Organised Crime Reforms) Bill 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160437",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "name": "First Reading",
+                                "type": "Subproceeding",
+                                "expanded": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Private Members' Statements",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Wahroonga Electorate Community Building Partnership Grants",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160438",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr ALISTER HENSKENS",
+                                "type": "Member",
+                                "id": "118"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Grace Kennedy",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160439",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms LIZA BUTLER",
+                                "type": "Member",
+                                "id": "2274"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Renewable Energy",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160440",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr PAUL TOOLE",
+                                "type": "Member",
+                                "id": "62"
+                            },
+                            {
+                                "xref": "2",
+                                "name": "Mr STEVE WHAN",
+                                "type": "Member",
+                                "id": "2176"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Westmead Institute for Medical Research",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160441",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms DONNA DAVIS",
+                                "type": "Member",
+                                "id": "2276"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Artificial Intelligence",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160442",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr ALEX GREENWICH",
+                                "type": "Member",
+                                "id": "98"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Assyrian Australian Community",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160443",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Dr HUGH McDERMOTT",
+                                "type": "Member",
+                                "id": "129"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Clarence Electorate",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160444",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr RICHIE WILLIAMSON",
+                                "type": "Member",
+                                "id": "2292"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kiama Electorate Fundraising Events",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160445",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KATELIN McINERNEY",
+                                "type": "Member",
+                                "id": "2311"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hawkesbury Electorate",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160446",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms ROBYN PRESTON",
+                                "type": "Member",
+                                "id": "2249"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North-West Sydney Housing Development",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160447",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr WARREN KIRBY",
+                                "type": "Member",
+                                "id": "2293"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Brookvale Public School",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160448",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MICHAEL REGAN",
+                                "type": "Member",
+                                "id": "2286"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East Hills Electorate",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160449",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KYLIE WILKINSON",
+                                "type": "Member",
+                                "id": "2291"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tribute to Robert Gray",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160450",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KELLIE SLOANE",
+                                "type": "Member",
+                                "id": "2288"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Domestic and Family Violence",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160451",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr DAVID HARRIS",
+                                "type": "Member",
+                                "id": "31"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Northern Tablelands Electorate",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160452",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr BRENDAN MOYLAN",
+                                "type": "Member",
+                                "id": "2306"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pontian House Earlwood",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160453",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms SOPHIE COTSIS",
+                                "type": "Member",
+                                "id": "53"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Newtown Electorate Political Activists",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160454",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JENNY LEONG",
+                                "type": "Member",
+                                "id": "107"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gosford Electorate Road Infrastructure",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160455",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms LIESL TESCH",
+                                "type": "Member",
+                                "id": "2228"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Northern Beaches Hospital",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160456",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JAMES GRIFFIN",
+                                "type": "Member",
+                                "id": "2229"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Granville Electorate Community Safety Forum",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160457",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JULIA FINN",
+                                "type": "Member",
+                                "id": "126"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Orange Electorate",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160458",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr PHILIP DONATO",
+                                "type": "Member",
+                                "id": "2226"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "First Guardian and Shield Master Funds",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160459",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr NATHAN HAGARTY",
+                                "type": "Member",
+                                "id": "2278"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Narrandera Water Infrastructure",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160460",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms STEPH COOKE",
+                                "type": "Member",
+                                "id": "2235"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Greyhound Racing NSW",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160461",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr ROY BUTLER",
+                                "type": "Member",
+                                "id": "2239"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Road Tolls",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160462",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr TIM JAMES",
+                                "type": "Member",
+                                "id": "2265"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Written Community Recognition Statements",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Return and Earn Rouse Hill",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160463",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr RAY WILLIAMS",
+                                "type": "Member",
+                                "id": "39"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bankstown Sports Group - $1m In Clubgrants to Local Organisations",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160464",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JIHAD DIB",
+                                "type": "Member",
+                                "id": "110"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Indigenous Elder Uncle John",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160465",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JIHAD DIB",
+                                "type": "Member",
+                                "id": "110"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "The Wise Up: Empowering Youth and Community Program",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160466",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JIHAD DIB",
+                                "type": "Member",
+                                "id": "110"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Macquarie Fields Men's Shed",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160467",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr ANOULACK CHANTHIVONG",
+                                "type": "Member",
+                                "id": "117"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Willoughby Girls High School Mock Election",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160468",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr TIM JAMES",
+                                "type": "Member",
+                                "id": "2265"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Northern Suburbs Touch",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160469",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr TIM JAMES",
+                                "type": "Member",
+                                "id": "2265"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Monalisa Jani, CASS Gumnut Elc",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160470",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr TIM JAMES",
+                                "type": "Member",
+                                "id": "2265"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Swadisht 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160471",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr GREG WARREN",
+                                "type": "Member",
+                                "id": "127"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Richard's Big Moment",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160472",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Dr MARJORIE O'NEILL",
+                                "type": "Member",
+                                "id": "2246"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Big Win for Bondi Golf and Diggers Club",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160473",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Dr MARJORIE O'NEILL",
+                                "type": "Member",
+                                "id": "2246"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Coogee Island Challenge",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160474",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Dr MARJORIE O'NEILL",
+                                "type": "Member",
+                                "id": "2246"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Professor Phil Morgan - Daughters and Dads",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160475",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms SONIA HORNERY",
+                                "type": "Member",
+                                "id": "33"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sophie Gladman",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160476",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms SONIA HORNERY",
+                                "type": "Member",
+                                "id": "33"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tunra",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160477",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms SONIA HORNERY",
+                                "type": "Member",
+                                "id": "33"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cronulla Triathlon Club",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160478",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MARK SPEAKMAN",
+                                "type": "Member",
+                                "id": "63"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cronulla RSL Football Club",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160479",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MARK SPEAKMAN",
+                                "type": "Member",
+                                "id": "63"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Caringbah Redbacks Football Club",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160480",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MARK SPEAKMAN",
+                                "type": "Member",
+                                "id": "63"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Peek-A-Boo Cottage",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160481",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JAMES GRIFFIN",
+                                "type": "Member",
+                                "id": "2229"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Manly SES Unit - Tsunami Awareness Initiative",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160482",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JAMES GRIFFIN",
+                                "type": "Member",
+                                "id": "2229"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Eleanor Eakins",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160483",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JAMES GRIFFIN",
+                                "type": "Member",
+                                "id": "2229"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tahlia Marsh",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160484",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr RICHIE WILLIAMSON",
+                                "type": "Member",
+                                "id": "2292"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North Coast Electrical",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160485",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr RICHIE WILLIAMSON",
+                                "type": "Member",
+                                "id": "2292"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Benjamin Benn",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160486",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr RICHIE WILLIAMSON",
+                                "type": "Member",
+                                "id": "2292"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cabramatta Buddhist Community Premier's Reception In NSW Parliament House",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160487",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr TRI VO",
+                                "type": "Member",
+                                "id": "2271"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "St Barnabas Anglican Church",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160488",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr TRI VO",
+                                "type": "Member",
+                                "id": "2271"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Miss Compassionate 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160489",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr TRI VO",
+                                "type": "Member",
+                                "id": "2271"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Donna Douglas",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160490",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs TANYA THOMPSON",
+                                "type": "Member",
+                                "id": "2290"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Elliott Simpson",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160491",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs TANYA THOMPSON",
+                                "type": "Member",
+                                "id": "2290"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Australian National Busking Championships",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160492",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr STEVE WHAN",
+                                "type": "Member",
+                                "id": "2176"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Delegate & Michelago Public Schools at the State Athletic Championships",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160493",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr STEVE WHAN",
+                                "type": "Member",
+                                "id": "2176"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Joanna Roweth",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160494",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr PAUL TOOLE",
+                                "type": "Member",
+                                "id": "62"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wallerawang Public School 2025 School Captains",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160495",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr PAUL TOOLE",
+                                "type": "Member",
+                                "id": "62"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Portland Central School 2025 School Captains",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160496",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr PAUL TOOLE",
+                                "type": "Member",
+                                "id": "62"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Camden Show Ball",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160497",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs JUDY HANNAN",
+                                "type": "Member",
+                                "id": "2279"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Macarthur Mayoral Charity Night",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160498",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs JUDY HANNAN",
+                                "type": "Member",
+                                "id": "2279"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "The Right Start Foundation Fifteenth Anniversary",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160499",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs JUDY HANNAN",
+                                "type": "Member",
+                                "id": "2279"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "St Anne's Preschool",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160500",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JULIA FINN",
+                                "type": "Member",
+                                "id": "126"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Granville Public School Diwali",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160501",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JULIA FINN",
+                                "type": "Member",
+                                "id": "126"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Darulfatwa, the Islamic High Council of Australia",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160502",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JULIA FINN",
+                                "type": "Member",
+                                "id": "126"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "The Bruns Brekkie",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160503",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms TAMARA SMITH",
+                                "type": "Member",
+                                "id": "119"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "NSW Rural Fire Service Alstonville/wollongbar Brigade",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160504",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms TAMARA SMITH",
+                                "type": "Member",
+                                "id": "119"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Elke Lysaght",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160505",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms YASMIN CATLEY",
+                                "type": "Member",
+                                "id": "128"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Yana Sementsova",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160506",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms YASMIN CATLEY",
+                                "type": "Member",
+                                "id": "128"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aelite Dental Business of the Year 2025 Bayside Local Business Awards",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160507",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr CHRIS MINNS",
+                                "type": "Member",
+                                "id": "108"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "The Magnificals Chamber Orchestra",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160508",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr CHRIS MINNS",
+                                "type": "Member",
+                                "id": "108"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Autism Community Network",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160509",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr CHRIS MINNS",
+                                "type": "Member",
+                                "id": "108"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Australian International Academy Student Leadership Elections",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160510",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JASON LI",
+                                "type": "Member",
+                                "id": "2263"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Burwood Greek Street Fair",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160511",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JASON LI",
+                                "type": "Member",
+                                "id": "2263"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cost of Living Hub",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160512",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JASON LI",
+                                "type": "Member",
+                                "id": "2263"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bravery and Betrayal Screening In Parliament",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160513",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MARK COURE",
+                                "type": "Member",
+                                "id": "83"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Macedonian Festival of Sydney 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160514",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MARK COURE",
+                                "type": "Member",
+                                "id": "83"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mortdale RSL Sub-Branch Luncheon",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160515",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MARK COURE",
+                                "type": "Member",
+                                "id": "83"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sydney Street Fair and Makersville Marrickville Makers Market Trail",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160516",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JO HAYLEN",
+                                "type": "Member",
+                                "id": "111"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Greenway Community Advocacy",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160517",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JO HAYLEN",
+                                "type": "Member",
+                                "id": "111"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Francis Lee",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160518",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr RON HOENIG",
+                                "type": "Member",
+                                "id": "97"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pamela Ang",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160519",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr RON HOENIG",
+                                "type": "Member",
+                                "id": "97"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Marie Tesoriero",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160520",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr RON HOENIG",
+                                "type": "Member",
+                                "id": "97"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nerrigundah Community Shed",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160521",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Dr MICHAEL HOLLAND",
+                                "type": "Member",
+                                "id": "2264"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sergeant Samara Hynes",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160522",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs HELEN DALTON",
+                                "type": "Member",
+                                "id": "2245"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Milton Follies - A Vicar of Dibley Christmas",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160523",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms LIZA BUTLER",
+                                "type": "Member",
+                                "id": "2274"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Home Program",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160524",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms LIZA BUTLER",
+                                "type": "Member",
+                                "id": "2274"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Walcha Coffee Takes Out Top Award",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160525",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr BRENDAN MOYLAN",
+                                "type": "Member",
+                                "id": "2306"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Moree Services Football Club 2025 Season",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160526",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr BRENDAN MOYLAN",
+                                "type": "Member",
+                                "id": "2306"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Matt Dodds – Glen Innes High School",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160527",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr BRENDAN MOYLAN",
+                                "type": "Member",
+                                "id": "2306"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bruce Whiteman, Glenore Brigade",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160528",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MARK HODGES",
+                                "type": "Member",
+                                "id": "2280"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Christopher Woellner, Round Corner Brigade",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160529",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MARK HODGES",
+                                "type": "Member",
+                                "id": "2280"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Castle Hill & District RSL Sub-Branch, Anzac Ambassadors",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160530",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MARK HODGES",
+                                "type": "Member",
+                                "id": "2280"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In Memory of Grace Kelly with Thanks to Monique Aboumelhem",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160531",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JORDAN LANE",
+                                "type": "Member",
+                                "id": "2283"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Remembrance Day Service – Joshua Ong",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160532",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JORDAN LANE",
+                                "type": "Member",
+                                "id": "2283"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Remembrance Day Service – Riley Pengilly",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160533",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JORDAN LANE",
+                                "type": "Member",
+                                "id": "2283"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Penrith War History Museum",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160534",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KAREN McKEOWN",
+                                "type": "Member",
+                                "id": "2285"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Relay for Life Penrith",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160535",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KAREN McKEOWN",
+                                "type": "Member",
+                                "id": "2285"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Saving True Blues",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160536",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KAREN McKEOWN",
+                                "type": "Member",
+                                "id": "2285"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Samson Alogwu",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160537",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms STEPHANIE DI PASQUA",
+                                "type": "Member",
+                                "id": "2277"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dr Uma Srinivasan",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160538",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms STEPHANIE DI PASQUA",
+                                "type": "Member",
+                                "id": "2277"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hills Football Association",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160539",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr RAY WILLIAMS",
+                                "type": "Member",
+                                "id": "39"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ariana Mckechnie",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160540",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms ELENI PETINOS",
+                                "type": "Member",
+                                "id": "109"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Jannali East Public School's Remembrance Day",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160541",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms ELENI PETINOS",
+                                "type": "Member",
+                                "id": "109"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Miranda RSL Sub-Branch's 90th Anniversary",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160542",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms ELENI PETINOS",
+                                "type": "Member",
+                                "id": "109"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Happy Diwali",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160543",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms DONNA DAVIS",
+                                "type": "Member",
+                                "id": "2276"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Western Sydney's Got Talent 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160544",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms DONNA DAVIS",
+                                "type": "Member",
+                                "id": "2276"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Foundation Day 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160545",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms DONNA DAVIS",
+                                "type": "Member",
+                                "id": "2276"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gennaro Abignano",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160546",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KOBI SHETTY",
+                                "type": "Member",
+                                "id": "2270"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Associazione Napoletana",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160547",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KOBI SHETTY",
+                                "type": "Member",
+                                "id": "2270"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "YAN Cai",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160548",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr PHILIP DONATO",
+                                "type": "Member",
+                                "id": "2226"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bev Williams",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160549",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr PHILIP DONATO",
+                                "type": "Member",
+                                "id": "2226"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "David Farrell",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160550",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr PHILIP DONATO",
+                                "type": "Member",
+                                "id": "2226"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recognition of Collin Hollis",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160551",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KATELIN McINERNEY",
+                                "type": "Member",
+                                "id": "2311"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "RFS Captain Hanna Mcinerney",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160552",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KATELIN McINERNEY",
+                                "type": "Member",
+                                "id": "2311"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recognition of Mark Burns",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160553",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KATELIN McINERNEY",
+                                "type": "Member",
+                                "id": "2311"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kumon Epping Education Centre",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160554",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms MONICA TUDEHOPE",
+                                "type": "Member",
+                                "id": "2307"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Emily Wong",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160555",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms MONICA TUDEHOPE",
+                                "type": "Member",
+                                "id": "2307"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Zonta Club of Hunter Newcastle Inc.",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160556",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr TIM CRAKANTHORP",
+                                "type": "Member",
+                                "id": "103"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Brain Industries",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160557",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr TIM CRAKANTHORP",
+                                "type": "Member",
+                                "id": "103"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Varley Group - Hma Hall of Fame",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160558",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr TIM CRAKANTHORP",
+                                "type": "Member",
+                                "id": "103"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Retirement of Chief Inspector Guy Guiana",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160559",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr DAVID LAYZELL",
+                                "type": "Member",
+                                "id": "2261"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Upper Hunter Learner Night Drive",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160560",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr DAVID LAYZELL",
+                                "type": "Member",
+                                "id": "2261"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Christopher Zinn",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160561",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KELLIE SLOANE",
+                                "type": "Member",
+                                "id": "2288"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North Bondi 24 Hour Swim",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160562",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KELLIE SLOANE",
+                                "type": "Member",
+                                "id": "2288"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pauline Menzcer Statue Unveiling",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160563",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms KELLIE SLOANE",
+                                "type": "Member",
+                                "id": "2288"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lynette Graham",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160564",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms LIESL TESCH",
+                                "type": "Member",
+                                "id": "2228"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Peter Burton",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160565",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms LIESL TESCH",
+                                "type": "Member",
+                                "id": "2228"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lisa Caswell",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160566",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms LIESL TESCH",
+                                "type": "Member",
+                                "id": "2228"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Maitland Regional Art Gallery Celebrates 50 Years",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160567",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JENNY AITCHISON",
+                                "type": "Member",
+                                "id": "120"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trish Sullivan",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160568",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JENNY AITCHISON",
+                                "type": "Member",
+                                "id": "120"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vale Daniel William Austin, OAM",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160569",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JENNY AITCHISON",
+                                "type": "Member",
+                                "id": "120"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "2025 Excellence In Early Childhood Education Awards",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160570",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MATT CROSS",
+                                "type": "Member",
+                                "id": "2275"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Community Bank Lindfield Grants",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160571",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MATT CROSS",
+                                "type": "Member",
+                                "id": "2275"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Model Global Parliament 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160572",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MATT CROSS",
+                                "type": "Member",
+                                "id": "2275"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "St Paul's Students Kicking Goals Abroad",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160573",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MICHAEL KEMP",
+                                "type": "Member",
+                                "id": "2282"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Khloe Vale Receives Youth of the Year Award",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160574",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MICHAEL KEMP",
+                                "type": "Member",
+                                "id": "2282"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Brydi's Brilliant Ride",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160575",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr MICHAEL KEMP",
+                                "type": "Member",
+                                "id": "2282"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Arini Kazi",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160576",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr DUGALD SAUNDERS",
+                                "type": "Member",
+                                "id": "2242"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gillian Ryan",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160577",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr DUGALD SAUNDERS",
+                                "type": "Member",
+                                "id": "2242"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Anne Elliott",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160578",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr DUGALD SAUNDERS",
+                                "type": "Member",
+                                "id": "2242"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lismore High Campus A Premier's Award Finalist",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160579",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JANELLE SAFFIN",
+                                "type": "Member",
+                                "id": "2085"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Northern NSW Lhd A Premier's Award Finalist",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160580",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JANELLE SAFFIN",
+                                "type": "Member",
+                                "id": "2085"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Richmond Riverkeeper Honoured at NSW Coastal Conference",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160581",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JANELLE SAFFIN",
+                                "type": "Member",
+                                "id": "2085"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Liam Rees is A Rising Star",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160582",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms STEPH COOKE",
+                                "type": "Member",
+                                "id": "2235"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Murrumburrah Public School Agriculture Department and Students",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160583",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms STEPH COOKE",
+                                "type": "Member",
+                                "id": "2235"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cowra Jersey Day Golf Event",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160584",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms STEPH COOKE",
+                                "type": "Member",
+                                "id": "2235"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sisterly Bites",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160585",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs TINA AYYAD",
+                                "type": "Member",
+                                "id": "2273"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Deborah Engeler",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160586",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs TINA AYYAD",
+                                "type": "Member",
+                                "id": "2273"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pak-Aus Engineers Association",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160587",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs TINA AYYAD",
+                                "type": "Member",
+                                "id": "2273"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Regentville Rural Fire Brigade",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160588",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs TANYA DAVIES",
+                                "type": "Member",
+                                "id": "57"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Xavier Curmi",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160589",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs TANYA DAVIES",
+                                "type": "Member",
+                                "id": "57"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Oran Park Hockey Club",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160590",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mrs TANYA DAVIES",
+                                "type": "Member",
+                                "id": "57"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wyanga Aboriginal Aged Care",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160591",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JENNY LEONG",
+                                "type": "Member",
+                                "id": "107"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Australian Railway Historical Society",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160592",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JENNY LEONG",
+                                "type": "Member",
+                                "id": "107"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Camdenville Public School P&C Association",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160593",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JENNY LEONG",
+                                "type": "Member",
+                                "id": "107"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Elizabeth Guthrie",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160594",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JACQUI SCRUBY",
+                                "type": "Member",
+                                "id": "2309"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Associate Professor Richard West",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160595",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JACQUI SCRUBY",
+                                "type": "Member",
+                                "id": "2309"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Patricia Fry",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160596",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms JACQUI SCRUBY",
+                                "type": "Member",
+                                "id": "2309"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "May Gibbs - Gumnut Fair 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160597",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms FELICITY WILSON",
+                                "type": "Member",
+                                "id": "2230"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kirribilli Street Festival",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160598",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms FELICITY WILSON",
+                                "type": "Member",
+                                "id": "2230"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Middle Harbour Public School Carnival Returns",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160599",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms FELICITY WILSON",
+                                "type": "Member",
+                                "id": "2230"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "80th Anniversary of Peats Ferry Bridge",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160600",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JAMES WALLACE",
+                                "type": "Member",
+                                "id": "2308"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "24-Hour Aed for Berowra",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160601",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JAMES WALLACE",
+                                "type": "Member",
+                                "id": "2308"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Studio Artes Christmas Cards",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160602",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr JAMES WALLACE",
+                                "type": "Member",
+                                "id": "2308"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Moses Fowler - Warilla High School",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160603",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms ANNA WATSON",
+                                "type": "Member",
+                                "id": "72"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Police Dog, Yoyo",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160604",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms ANNA WATSON",
+                                "type": "Member",
+                                "id": "72"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rainer Schilder",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160605",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Ms ANNA WATSON",
+                                "type": "Member",
+                                "id": "72"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Janette Hyde, OAM",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160606",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr ROBERT DWYER",
+                                "type": "Member",
+                                "id": "2310"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Johns River Rural Fire Brigade",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160607",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr ROBERT DWYER",
+                                "type": "Member",
+                                "id": "2310"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Moorland Rural Fire Bridade",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160608",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "xref": "1",
+                                "name": "Mr ROBERT DWYER",
+                                "type": "Member",
+                                "id": "2310"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "pdfid": "HANSARD-1323879322-160609",
+        "type": "Root",
+        "expanded": true,
+        "date": "2025-11-20",
+        "chamber": "Legislative Assembly",
+        "draft": true,
+        "item": [
+            {
+                "name": "Bills",
+                "type": "Proceeding",
+                "expanded": true,
+                "item": [
+                    {
+                        "name": "Summary Offences and Other Legislation Amendment (Public Assemblies) Bill 2025",
+                        "type": "Topic",
+                        "docid": "HANSARD-1323879322-160369",
+                        "expanded": false,
+                        "item": [
+                            {
+                                "name": "Second Reading Speech",
+                                "type": "Subproceeding",
+                                "expanded": true,
+                                "item": [
+                                    {
+                                        "xref": "1",
+                                        "name": "Mr ALISTER HENSKENS",
+                                        "type": "Member",
+                                        "id": "118"
+                                    }
+                                ]
+                            }
+                        ],
+                        "data": {
+                            "rawHTML": "...html goes here",
+                            "parsed": "... not sure yet, do you have any idea?"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
