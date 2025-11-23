@@ -45,8 +45,16 @@ def generate_browser_profile() -> Dict[str, str]:
     This is called once per process and applied to a single reusable Session,
     so we keep connections warm (HTTP keep-alive) and avoid per-request jitter.
     """
-    ua = UserAgent()
-    user_agent = ua.random
+    # fake_useragent can fail on first use without network or cached data.
+    # Fall back to a static modern Chrome UA if that happens.
+    try:
+        ua = UserAgent()
+        user_agent = ua.random
+    except Exception:
+        user_agent = (
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/120.0.0.0 Safari/537.36"
+        )
 
     # Parse the User-Agent to extract browser and OS info
     if "Chrome" in user_agent:

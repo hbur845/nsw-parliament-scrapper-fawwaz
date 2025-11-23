@@ -10,12 +10,12 @@ from typing import Tuple
 def parse_ids_from_url(url: str) -> Tuple[str, str]:
     """Parse `pdfid` and `docid` from a Hansard URL.
 
-    How it works:
-    - The Hansard app uses a hash route like `#/DateDisplay/<pdfid>/<docid>`.
-    - We first try to split on `#/DateDisplay/` to reliably isolate the two IDs.
-    - If that pattern is missing, we fall back to the last two URL segments.
+    Accepts both of these forms:
+    - Full: https://...#/DateDisplay/<pdfid>/<docid>
+    - Pdf-only: https://...#/DateDisplay/<pdfid>
 
-    Returns a tuple of `(pdfid, docid)`.
+    Returns a tuple of `(pdfid, docid)`. If no `docid` is present, returns an
+    empty string for the second element.
     """
     marker = "#/DateDisplay/"
     if marker in url:
@@ -23,10 +23,15 @@ def parse_ids_from_url(url: str) -> Tuple[str, str]:
         parts = [p for p in tail.split("/") if p]
         if len(parts) >= 2:
             return parts[0], parts[1]
+        if len(parts) == 1:
+            # Only pdfid present after DateDisplay
+            return parts[0], ""
 
-    # Fallback: take the last 2 segments of the URL
-    parts = [p for p in url.split("/") if p]
-    if len(parts) < 2:
-        raise ValueError("URL does not contain enough segments to extract pdfid and docid")
-    return parts[-2], parts[-1]
+    # Fallback: try to find a segment that looks like a pdfid
+    # Example segment pattern: HANSARD-1323879322-159901
+    segments = [p for p in url.split("/") if p]
+    for seg in reversed(segments):
+        if seg.startswith("HANSARD-"):
+            return seg, ""
 
+    raise ValueError("Unable to extract pdfid from URL")

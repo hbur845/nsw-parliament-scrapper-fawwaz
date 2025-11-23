@@ -19,7 +19,7 @@ def get_pdf_fragments(
     retries: int = 3,
     retry_status_codes: Tuple[int, ...] = (502,),
     initial_delay_seconds: float = 3.0,
-    backoff: float = 2.0
+    backoff: float = 2.0,
 ) -> str:
     """Fetch Topic fragment HTML by `doc_id` and return raw HTML string.
 
@@ -30,9 +30,9 @@ def get_pdf_fragments(
 
     How it works:
     - Calls: POST /api/hansard/search/daily/fragment/html/{doc_id}
-    - Response JSON is a stringified JSON; we `json.loads` it then take
-      `DocumentHtml` and parse it as HTML.
-    - `parse_engine` selects the BeautifulSoup parser: "lxml" (default) or "bs4".
+    - Response JSON may itself be JSON-encoded again; we decode robustly and
+      return `DocumentHtml` as a raw HTML string. Parsing happens upstream in
+      `lib.parser.parse_fragment`.
     """
     api_base_url = (
         "https://api.parliament.nsw.gov.au/api/hansard/search/daily/fragment/html"

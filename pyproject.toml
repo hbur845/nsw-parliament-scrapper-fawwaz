@@ -1,7 +1,7 @@
 [project]
 name = "nsw-parliament-scrapper"
 version = "0.1.0"
-description = "NSW Parliament Hansard scraper (daily TOC + fragments)"
+description = "NSW Parliament Hansard scraper for Legislative Assembly"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -15,7 +15,3 @@ dependencies = [
 
 [project.scripts]
 nsw = "main:main"
-
-[build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"

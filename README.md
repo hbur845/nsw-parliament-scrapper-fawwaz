@@ -54,21 +54,25 @@ pip install -r requirements.txt
 ## Usage (CLI)
 
 ```bash
+# Full URL (pdfid + docid)
 python main.py --url "https://www.parliament.nsw.gov.au/Hansard/Pages/HansardFull.aspx#/DateDisplay/<pdfid>/<docid>"
+
+# Pdf-only URL (fallback: process entire day)
+python main.py --url "https://www.parliament.nsw.gov.au/Hansard/Pages/HansardFull.aspx#/DateDisplay/<pdfid>"
 ```
 
 You can pass multiple days by repeating `--url` (the tool deduplicates by `pdfid` and writes one file per day):
 
 ```bash
 python main.py \
-  --url "...#/DateDisplay/HANSARD-1323879322-160378/HANSARD-..." \
-  --url "...#/DateDisplay/HANSARD-1323879322-160609/HANSARD-..."
+  --url "...#/DateDisplay/HANSARD-1323879322-160378" \
+  --url "...#/DateDisplay/HANSARD-1323879322-160609"
 ```
 
 Tunable workers, parser engine, and progress toggle:
 
 ```bash
-python main.py --url "...#/DateDisplay/<pdfid>/<docid>" --workers 16 --parse-engine lxml --no-progress
+python main.py --url "...#/DateDisplay/<pdfid>" --workers 16 --parse-engine lxml --no-progress
 ```
 
 Environment variables (alternative to `--workers`):
@@ -76,7 +80,7 @@ Environment variables (alternative to `--workers`):
 - `WORKERS` or `HANSARD_WORKERS` — number of concurrent fetch threads (network I/O workers). Example:
 
 ```bash
-WORKERS=20 python main.py --url "...#/DateDisplay/<pdfid>/<docid>"
+WORKERS=20 python main.py --url "...#/DateDisplay/<pdfid>"
 ```
 
 ## Output
@@ -120,7 +124,7 @@ Run (persist results to host `./storage`):
 docker run -it --rm \
   -v "$PWD/storage:/app/storage" \
   nsw-scraper \
-  --url "https://www.parliament.nsw.gov.au/Hansard/Pages/HansardFull.aspx#/DateDisplay/<pdfid>/<docid>" \
+  --url "https://www.parliament.nsw.gov.au/Hansard/Pages/HansardFull.aspx#/DateDisplay/<pdfid>" \
   --workers 12 --parse-engine lxml
 ```
 ### Parse engine options
@@ -136,8 +140,8 @@ Multiple days:
 docker run -it --rm \
   -v "$PWD/storage:/app/storage" \
   nsw-scraper \
-  --url "...#/DateDisplay/HANSARD-1323879322-160378/HANSARD-..." \
-  --url "...#/DateDisplay/HANSARD-1323879322-160609/HANSARD-..."
+  --url "...#/DateDisplay/HANSARD-1323879322-160378" \
+  --url "...#/DateDisplay/HANSARD-1323879322-160609"
 ```
 
 Disable progress bar:
@@ -149,7 +153,7 @@ docker run -it --rm -v "$PWD/storage:/app/storage" nsw-scraper --url "…" --no-
 ## Design Notes
 
 - Networking: one pooled `requests.Session` with keep‑alive (see `lib/api.py`)
-- Parsing: `BeautifulSoup(..., "lxml")` for speed and robustness (see `lib/fragments.py`)
+- Parsing: native `lxml` by default; engines are pluggable in `lib/parser.py`. The fragment fetcher in `lib/fragments.py` returns raw HTML which `lib/parser.py` parses.
 - Concurrency: `ThreadPoolExecutor` with a bounded worker count (see `lib/storage.py`)
 - Retries: 502 retry with exponential backoff for fragments; non‑fatal per‑topic warnings
 

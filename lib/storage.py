@@ -44,7 +44,7 @@ def augment_all_topics_and_write(
 
     def fetch_and_parse(topic: dict) -> Dict[str, object]:
         docid = topic["docid"]
-        html = get_pdf_fragments(docid, parse_engine=parse_engine)
+        html = get_pdf_fragments(docid)
         return {"rawHTML": html, "parsed": parse_fragment(html, engine=parse_engine)}
 
     pbar = (
