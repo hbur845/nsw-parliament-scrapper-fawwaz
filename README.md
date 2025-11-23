@@ -122,7 +122,7 @@ docker run -it --rm \
   nsw-scraper \
   --url "https://www.parliament.nsw.gov.au/Hansard/Pages/HansardFull.aspx#/DateDisplay/<pdfid>/<docid>" \
   --workers 12 --parse-engine lxml
-
+```
 ### Parse engine options
 
 - `--parse-engine lxml` (default): native lxml.html
@@ -164,7 +164,7 @@ python bench.py --iterations 50     # increase iterations
 python bench.py --files guide/*.html
 ```
 
-Bench results from a reference machine (see bench-result for raw output):
+Bench results from a reference machine:
 
 ```
 System info:
